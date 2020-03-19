@@ -1,3 +1,3 @@
 function random() {
-  console.log('    _+_      ')
+  console.log(Math.random())
 }
